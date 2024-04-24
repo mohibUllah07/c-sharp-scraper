@@ -1,0 +1,20 @@
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig_MarkupCompile.cache
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig_MarkupCompile.lref
+C:\Users\asp\source\repos\scraper assig\scraper assig\bin\Debug\net7.0-windows\scraper assig.exe
+C:\Users\asp\source\repos\scraper assig\scraper assig\bin\Debug\net7.0-windows\scraper assig.deps.json
+C:\Users\asp\source\repos\scraper assig\scraper assig\bin\Debug\net7.0-windows\scraper assig.runtimeconfig.json
+C:\Users\asp\source\repos\scraper assig\scraper assig\bin\Debug\net7.0-windows\scraper assig.dll
+C:\Users\asp\source\repos\scraper assig\scraper assig\bin\Debug\net7.0-windows\scraper assig.pdb
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.g.resources
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.AssemblyInfoInputs.cache
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.AssemblyInfo.cs
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.csproj.CoreCompileInputs.cache
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.dll
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\refint\scraper assig.dll
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.pdb
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\scraper assig.genruntimeconfig.cache
+C:\Users\asp\source\repos\scraper assig\scraper assig\obj\Debug\net7.0-windows\ref\scraper assig.dll

@@ -1,0 +1,35 @@
+﻿<Window x:Class="scraper_assig.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:scraper_assig"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="56,-59,-56,59">
+        <TextBox x:Name="webURL" HorizontalAlignment="Left" Margin="301,197,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="18" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.307"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label x:Name="label" Content="Enter URL" HorizontalAlignment="Left" Margin="223,193,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.069,0.464"/>
+        <TextBox x:Name="webname" HorizontalAlignment="Left" Margin="301,163,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" Height="18" RenderTransformOrigin="0.5,0.5">
+            <TextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.307"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBox.RenderTransform>
+        </TextBox>
+        <Label x:Name="label_Copy" Content="Enter Name" HorizontalAlignment="Left" Margin="223,159,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="scrap" Content="scrap" HorizontalAlignment="Left" Margin="336,257,0,0" VerticalAlignment="Top" Background="#FFAFA0A0" Width="42" Height="24" Click="scrap_Click"/>
+
+    </Grid>
+</Window>
